@@ -426,8 +426,8 @@ footer {
   background-color: var(--main-bg-color);
   padding-top: 30px;
   padding-bottom: 16px;
-  padding-left: 55px;
-  padding-right: 55px;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 
 /* .social-icon {
